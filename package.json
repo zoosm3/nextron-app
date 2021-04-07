@@ -3,7 +3,7 @@
   "name": "my-nextron-app",
   "description": "My application description",
   "version": "1.0.0",
-  "author": "Yoshihide Shiono <shiono.yoshihide@gmail.com>",
+  "author": "Yuko Shimizu",
   "main": "app/background.js",
   "scripts": {
     "dev": "nextron",
@@ -13,7 +13,8 @@
   "dependencies": {
     "axios": "^0.21.1",
     "electron-serve": "^1.1.0",
-    "electron-store": "^7.0.2"
+    "electron-store": "^7.0.2",
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "@types/node": "^14.6.4",
